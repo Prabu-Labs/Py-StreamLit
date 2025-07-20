@@ -29,6 +29,7 @@ st.subheader("Streamlit Cheatsheet")
 st.markdown("""
 ```python
 # Display text
+""")
 st.write("Hello, Streamlit!")
 
 # Display markdown
